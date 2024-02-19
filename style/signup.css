@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://i1.wp.com/dream.luxuryescapes.com/wp-content/uploads/2021/08/Hotel_Entrance_Dusk-e1628830398783.jpg?fit=2000%2C1333&ssl=1);
+  }
+  .s{
+    margin: auto;
+    margin-top: 100px;
+    padding: 50px;
+    border: 2px solid rgb(64, 24, 13);
+    height: 650px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: rgba(17, 206, 206, 0.582);
+    text-size: 200px;
+  }
+ .s{
+     transition: 1s;
+}
+.btn{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.s:hover{
+   transform: scale(1.1);
+}
+.form-label{
+    font-size: 22px;
+}
