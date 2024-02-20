@@ -39,6 +39,9 @@ body {
 .h2{
     color: aliceblue;
 }
+.h3{
+  color: aliceblue;
+}
 .h6{
   margin-left: 150px;
   margin-right: 150px;
@@ -57,7 +60,7 @@ body {
     
 }
 .card{
-    color: rgb(255, 177, 121);
+    color: rgb(255, 255, 255);
     background-color: rgb(62, 62, 62);
 }
 
